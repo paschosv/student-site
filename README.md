@@ -40,7 +40,7 @@ index.html
 
 Βάλε μέσα αυτό (παράδειγμα):
 
-
+<!--
 <!DOCTYPE html>
 <html>
   <head><title>Τα ζώα της Αφρικής</title>
@@ -52,7 +52,7 @@ index.html
 <a href="https://wikipedia.org">ΠΕΡΙΣΣΟΤΕΡΑ στο WIKIPEDIA</a>
     </body>
 </html>
-
+-->
 
 
 Πάτα Commit new file
