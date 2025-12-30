@@ -38,21 +38,7 @@ Public ✅
 index.html
 
 
-Βάλε μέσα αυτό (παράδειγμα):
-
-<!--
-<!DOCTYPE html>
-<html>
-  <head><title>Τα ζώα της Αφρικής</title>
-    </head>
-  <body><h1>Γεια σου κόσμε!</h1>
-  <p>Αυτό είναι το site μου στο GitHub Pages 🎉</p><h1>Ο Βασιλιάς της Σαβάνας</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/640px-Lion_waiting_in_Namibia.jpg" alt="Λιοντάρι στη Σαβάνα" width="400">
-<p>Το λιοντάρι είναι ένα από τα μεγαλύτερα αιλουροειδή και ζει κυρίως στην Αφρική. Είναι γνωστό για την εντυπωσιακή χαίτη του αρσενικού και θεωρείται σύμβολο δύναμης.</p>
-<a href="https://wikipedia.org">ΠΕΡΙΣΣΟΤΕΡΑ στο WIKIPEDIA</a>
-    </body>
-</html>
--->
+Βάλε το κώδικα που έχουμε φτιάξει και που μπορείς να βρείς οδηγίες εδώ https://bpaschos.sites.sch.gr/2025/12/07/11-1-%ce%b5%ce%b9%cf%83%ce%b1%ce%b3%cf%89%ce%b3%ce%ae-%cf%83%cf%84%ce%b7%ce%bd-html/
 
 
 Πάτα Commit new file
